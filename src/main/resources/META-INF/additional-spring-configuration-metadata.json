@@ -1,0 +1,14 @@
+{
+    "properties": [
+        {
+            "name": "file.upload-dir",
+            "type": "java.lang.String",
+            "description": "A description for 'file.upload-dir'"
+        },
+        {
+            "name": "spring.mvc.static-path",
+            "type": "java.lang.String",
+            "description": "A description for 'spring.mvc.static-path'"
+        }
+    ]
+}
